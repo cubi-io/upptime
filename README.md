@@ -13,7 +13,7 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [Cubi](https://www.cubi.so) | 🟩 Up | [cubi.yml](https://github.com/cubi-io/upptime/commits/master/history/cubi.yml) | <img alt="Response time graph" src="./graphs/cubi.png" height="20"> 1379ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcubi-io%2Fupptime%2Fmaster%2Fapi%2Fcubi%2Fuptime.json)
+| [Cubi](https://www.cubi.so) | 🟩 Up | [cubi.yml](https://github.com/cubi-io/upptime/commits/master/history/cubi.yml) | <img alt="Response time graph" src="./graphs/cubi.png" height="20"> 1344ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcubi-io%2Fupptime%2Fmaster%2Fapi%2Fcubi%2Fuptime.json)
 <!--end: status pages-->
 
 ## ⭐ How it works

@@ -1,4 +1,4 @@
-# [![Upptime](./assets/logo.svg)](https://upptime.js.org)
+# [📈 Live Status](https://upptime.cubi.so): <!--live status--> **🟩 All systems operational**
 
 Upptime (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.
 
@@ -8,12 +8,11 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Summary CI](https://github.com/koj-co/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
-## [📈 Live Status](https://upptime.js.org): <!--live status--> **🟩 All systems operational**
 
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [Cubi](https://www.cubi.so) | 🟩 Up | [cubi.yml](https://github.com/cubi-io/upptime/commits/master/history/cubi.yml) | <img alt="Response time graph" src="./graphs/cubi.png" height="20"> 1344ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcubi-io%2Fupptime%2Fmaster%2Fapi%2Fcubi%2Fuptime.json)
+| [Cubi](https://www.cubi.so) | 🟩 Up | [cubi.yml](https://github.com/cubi-io/upptime/commits/master/history/cubi.yml) | <img alt="Response time graph" src="./graphs/cubi.png" height="20"> 1313ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcubi-io%2Fupptime%2Fmaster%2Fapi%2Fcubi%2Fuptime.json)
 <!--end: status pages-->
 
 ## ⭐ How it works
@@ -328,7 +327,7 @@ Similarly, response time badges are available: ![Response time](https://img.shie
 
 ## 📄 License
 
-- Code: [MIT](./LICENSE) © [Koj](https://koj.co)
+- Code: [MIT](./LICENSE) © [cubi-io](https://upptime.cubi.so)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
 
 <p align="center">
